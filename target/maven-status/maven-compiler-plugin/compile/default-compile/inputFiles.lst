@@ -1,0 +1,14 @@
+/home/capemox/projects/java-spring-thymeleaf-chat/src/main/java/it/davidenastri/chat/controller/LoginController.java
+/home/capemox/projects/java-spring-thymeleaf-chat/src/main/java/it/davidenastri/chat/controller/SignupController.java
+/home/capemox/projects/java-spring-thymeleaf-chat/src/main/java/it/davidenastri/chat/service/UserService.java
+/home/capemox/projects/java-spring-thymeleaf-chat/src/main/java/it/davidenastri/chat/model/ChatMessage.java
+/home/capemox/projects/java-spring-thymeleaf-chat/src/main/java/it/davidenastri/chat/service/AuthenticationService.java
+/home/capemox/projects/java-spring-thymeleaf-chat/src/main/java/it/davidenastri/chat/service/HashService.java
+/home/capemox/projects/java-spring-thymeleaf-chat/src/main/java/it/davidenastri/chat/mapper/UserMapper.java
+/home/capemox/projects/java-spring-thymeleaf-chat/src/main/java/it/davidenastri/chat/config/SecurityConfig.java
+/home/capemox/projects/java-spring-thymeleaf-chat/src/main/java/it/davidenastri/chat/model/ChatForm.java
+/home/capemox/projects/java-spring-thymeleaf-chat/src/main/java/it/davidenastri/chat/service/MessageService.java
+/home/capemox/projects/java-spring-thymeleaf-chat/src/main/java/it/davidenastri/chat/mapper/MessageMapper.java
+/home/capemox/projects/java-spring-thymeleaf-chat/src/main/java/it/davidenastri/chat/controller/ChatController.java
+/home/capemox/projects/java-spring-thymeleaf-chat/src/main/java/it/davidenastri/chat/ChatApplication.java
+/home/capemox/projects/java-spring-thymeleaf-chat/src/main/java/it/davidenastri/chat/model/User.java
