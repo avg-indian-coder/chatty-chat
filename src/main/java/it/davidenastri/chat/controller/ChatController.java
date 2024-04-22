@@ -16,13 +16,20 @@ import java.security.Principal;
 public class ChatController {
 
     private MessageService messageService;
-
+ 
     public ChatController(MessageService messageService) {
         this.messageService = messageService;
     }
 
     @GetMapping
-    public String getChatPage(ChatForm chatForm, Model model) {
+    public String getChatPage(ChatForm chatForm, Model model, Principal principal) {
+        if (principal.getName().equals("admin")) {
+            // System.out.println("Admin logged in!");
+            return "redirect:/admin";
+        } 
+        else {
+            System.out.println("noob logged in");
+        }
         model.addAttribute("chatMessages", this.messageService.getChatMessages());
         return "chat";
     }
