@@ -1,4 +1,4 @@
-it/davidenastri/chat/ChatApplicationTests.class
-it/davidenastri/chat/page/ChatPage.class
-it/davidenastri/chat/page/LoginPage.class
-it/davidenastri/chat/page/SignUpPage.class
+it/chatty/chat/ChatApplicationTests.class
+it/chatty/chat/page/ChatPage.class
+it/chatty/chat/page/LoginPage.class
+it/chatty/chat/page/SignUpPage.class

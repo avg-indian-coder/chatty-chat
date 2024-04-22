@@ -1,4 +1,4 @@
-/home/capemox/projects/chatty-chat/src/test/java/it/davidenastri/chat/ChatApplicationTests.java
-/home/capemox/projects/chatty-chat/src/test/java/it/davidenastri/chat/page/LoginPage.java
-/home/capemox/projects/chatty-chat/src/test/java/it/davidenastri/chat/page/ChatPage.java
-/home/capemox/projects/chatty-chat/src/test/java/it/davidenastri/chat/page/SignUpPage.java
+/home/capemox/projects/chatty-chat/src/test/java/it/chatty/chat/page/SignUpPage.java
+/home/capemox/projects/chatty-chat/src/test/java/it/chatty/chat/page/LoginPage.java
+/home/capemox/projects/chatty-chat/src/test/java/it/chatty/chat/ChatApplicationTests.java
+/home/capemox/projects/chatty-chat/src/test/java/it/chatty/chat/page/ChatPage.java
